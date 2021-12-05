@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871093621006",
+    "project_id": "firebbrayan-50689",
+    "storage_bucket": "firebbrayan-50689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871093621006:android:ea37d209deb9572a24875f",
+        "android_client_info": {
+          "package_name": "com.bmunoz.firebasebrayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871093621006-nmc57m9a6iuraj2757f7orrcmtuo59c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmunoz.firebasebrayan",
+            "certificate_hash": "1cc98a969fb7feeb7911efb98825e75203a1b1d0"
+          }
+        },
+        {
+          "client_id": "871093621006-26nakaogaq8qgp0kcda4l8glaqhfmehd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Hoo6BbdVxQjWUaogBQIBozPZqc-DNbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871093621006-26nakaogaq8qgp0kcda4l8glaqhfmehd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

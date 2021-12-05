@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_item_agregar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Agregar"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_item_save"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Editar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_eliminar"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Eliminar"
+        app:showAsAction="ifRoom"/>
+</menu>
